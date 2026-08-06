@@ -1,1 +1,0 @@
-{"id": "test-pat-write", "timestamp": "2026-08-06", "model": {"name": "test-model", "type": "api"}, "suite": "reasoning", "score": 85.5, "metrics": {"avg_latency_ms": 1200, "p95_latency_ms": 3000}, "stratabench_version": "1.1", "config": {"runs_per_prompt": 1, "seed": 42}, "hardware": {"cpu": "test-cpu", "gpu": "test-gpu", "ram_gb": 0}}
