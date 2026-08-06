@@ -1,0 +1,32 @@
+{
+  "model": {
+    "name": "gpt-4o-mini",
+    "type": "api",
+    "provider": "OpenAI",
+    "endpoint": "https://api.openai.com/v1"
+  },
+  "suite": "reasoning",
+  "score": 78.2,
+  "metrics": {
+    "avg_latency_ms": 650,
+    "input_tokens": 500,
+    "output_tokens": 250,
+    "tokens_total": 750
+  },
+  "cost_analysis": {
+    "input_cost": 0.075,
+    "output_cost": 0.15,
+    "total_cost": 0.22499999999999998
+  },
+  "performance_metrics": {
+    "latency_ms": 650,
+    "tokens_per_sec": 1153.8461538461538,
+    "efficiency_score": 100
+  },
+  "submitter": {
+    "github": null,
+    "api_key": null
+  },
+  "notes": "Faster and cheaper than gpt-4o",
+  "report_type": "web_submission"
+}
